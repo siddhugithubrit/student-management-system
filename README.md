@@ -1,52 +1,95 @@
 # 🎓 Student Management System
 
-## 📌 Description
+A full-stack web application to manage student records using Spring Boot, React.js, and MySQL.
 
-A full-stack web application to manage student records using Spring Boot and React.js. The system allows users to perform CRUD operations and interact with a RESTful backend.
+---
 
 ## 🚀 Live Demo
 
-* Frontend: (Add your Netlify link here)
-* Backend API: (Add your Railway link here)
+- Frontend: (Add your Netlify link here)
+- Backend: Runs locally using Spring Boot
+- Database: MySQL
+
+---
 
 ## ✨ Features
 
-* Add new student records
-* View all students in a table format
-* Update existing student details
-* Delete student records
-* REST API integration between frontend and backend
-* Responsive UI using Bootstrap
+- ➕ Add Student
+- 📋 View Students
+- ✏️ Update Student Details
+- ❌ Delete Student Records
+- 🔗 REST API Integration
+- 📱 Responsive User Interface
+
+---
 
 ## 🛠 Tech Stack
 
-* Frontend: React.js, HTML, CSS, Bootstrap
-* Backend: Spring Boot, REST APIs
-* Database: MySQL
-* Deployment:
+### Frontend
+- React.js
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
-  * Frontend: Netlify
-  * Backend: Railway
+### Backend
+- Spring Boot
+- Java
+- REST APIs
+
+### Database
+- MySQL
+
+### Deployment
+- Frontend: Netlify
+
+---
+
+## 📂 Project Structure
+
+### Backend Repository
+```bash
+student-management-system
+```
+
+### Frontend Repository
+```bash
+student-frontend
+```
+
+---
 
 ## ⚙️ Installation (Local Setup)
 
 ### Backend
-
-1. Clone the repository
-2. Open in Eclipse or IntelliJ
-3. Run the Spring Boot application
+1. Clone repository
+2. Open project in Eclipse or IntelliJ
+3. Configure MySQL database
+4. Run Spring Boot Application
 
 ### Frontend
-
 ```bash
 cd student-frontend
 npm install
 npm start
 ```
 
+---
+
 ## 📷 Screenshots
 
-(Add screenshots of UI here)
+(Add screenshots here later)
+
+---
+
+## 💡 Future Improvements
+
+- Student Search Feature
+- Authentication & Authorization
+- Attendance Management
+- Dashboard Analytics
+
+---
 
 ## 👨‍💻 Author
 
