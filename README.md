@@ -12,7 +12,7 @@ This project was developed to practice full-stack web development using Spring B
 
 ## 🚀 Live Demo
 
-- Frontend: (Add your Netlify link here)
+- Frontend: https://lovely-longma-fb36ed.netlify.app/
 - Backend: Spring Boot REST API
 - Database: MySQL
 
