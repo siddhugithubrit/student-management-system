@@ -4,10 +4,16 @@ A full-stack web application to manage student records using Spring Boot, React.
 
 ---
 
+## 📌 Project Objective
+
+This project was developed to practice full-stack web development using Spring Boot, React.js, and MySQL by implementing CRUD operations and REST API integration.
+
+---
+
 ## 🚀 Live Demo
 
 - Frontend: (Add your Netlify link here)
-- Backend: Runs locally using Spring Boot
+- Backend: Spring Boot REST API
 - Database: MySQL
 
 ---
@@ -35,7 +41,7 @@ A full-stack web application to manage student records using Spring Boot, React.
 ### Backend
 - Spring Boot
 - Java
-- REST APIs
+- RESTful APIs
 
 ### Database
 - MySQL
@@ -47,15 +53,8 @@ A full-stack web application to manage student records using Spring Boot, React.
 
 ## 📂 Project Structure
 
-### Backend Repository
-```bash
-student-management-system
-```
-
-### Frontend Repository
-```bash
-student-frontend
-```
+Backend Repository: Spring Boot Backend
+Frontend Repository: React Frontend
 
 ---
 
@@ -93,4 +92,4 @@ npm start
 
 ## 👨‍💻 Author
 
-Siddhesh Mestry
+Siddhesh Jagannath Mestry
